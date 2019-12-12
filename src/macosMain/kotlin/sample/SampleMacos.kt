@@ -27,6 +27,11 @@ fun main() {
 //    captureArgs()
 //    captureTooMuchSource()
 
+    // 5) Coroutines
+//    basicBackgroundCoroutine()
+//    captureStateCoroutine()
+//    captureTooMuchCoroutine()
+//    captureArgsCoroutine()
 
     //Leave this please...
     waitForWorker()
