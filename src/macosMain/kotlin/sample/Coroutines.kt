@@ -65,3 +65,15 @@ class CountingModelSaferCoroutine {
         println("Doing db stuff with $arg, in main $isMainThread")
     }
 }
+
+fun returnDataCoroutine() = runBlocking {
+    val sd = SomeData("Hello 🐶", 67)
+
+    val result = makeData(sd)
+
+    println("result: $result, is frozen ${result.isFrozen}")
+}
+
+private suspend fun makeData(sdIn: SomeData) = withContext(Dispatchers.Default) {
+    SomeData("Hello again 🐶", sdIn.i + 55)
+}
