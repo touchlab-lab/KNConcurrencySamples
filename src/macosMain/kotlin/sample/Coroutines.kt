@@ -20,7 +20,7 @@ fun captureStateCoroutine() = runBlocking {
     }
 }
 
-fun captureTooMuchCoroutine() {
+fun captureTooMuchCoroutine() = runBlocking {
     val model = CountingModelCoroutine()
     model.increment()
     println("I have ${model.count}")
@@ -32,9 +32,9 @@ fun captureTooMuchCoroutine() {
 class CountingModelCoroutine {
     var count = 0
 
-    fun increment() {
+    suspend fun increment() {
         count++
-        background {
+        withContext(Dispatchers.Default) {
             saveToDb(count)
         }
     }
