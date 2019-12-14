@@ -27,12 +27,18 @@ fun main() {
 //    captureArgs()
 //    captureTooMuchSource()
 
-    // 5) Coroutines
+    // 5) Atomics
+//    atomicIntDemo()
+//    atomicThreadsDemo()
+//    atomicRefDemo()
+
+    // 6) Coroutines
 //    basicBackgroundCoroutine()
 //    captureStateCoroutine()
 //    captureTooMuchCoroutine()
 //    captureArgsCoroutine()
 //    returnDataCoroutine()
+
 
     //Leave this please...
     waitForWorker()
