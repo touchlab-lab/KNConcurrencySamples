@@ -1,5 +1,6 @@
 package sample
 
+/*
 import kotlin.native.concurrent.AtomicInt
 import kotlin.native.concurrent.AtomicReference
 import kotlin.native.concurrent.freeze
@@ -32,4 +33,4 @@ fun atomicRefDemo() {
 
 class AtomicDataReference {
     val ar = AtomicReference(SomeData("Hello 🚀", 32).freeze())
-}
+}*/

@@ -32,9 +32,9 @@ fun main() {
 //    atomicThreadsDemo()
 //    atomicRefDemo()
 
-    // 6) Coroutines
-    // See mt_coroutines branch...
-
+    // 6) Reaktive
+//    basicObservable()
+//    willFreeze()
 
     //Leave this please...
     waitForWorker()

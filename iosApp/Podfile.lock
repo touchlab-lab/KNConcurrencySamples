@@ -1,0 +1,16 @@
+PODS:
+  - KNConcurrencySamples (0.1)
+
+DEPENDENCIES:
+  - KNConcurrencySamples (from `..`)
+
+EXTERNAL SOURCES:
+  KNConcurrencySamples:
+    :path: ".."
+
+SPEC CHECKSUMS:
+  KNConcurrencySamples: 775382b1eac1fc81a973cac9ee7ef931494c0cb4
+
+PODFILE CHECKSUM: 46deec72af4ddbda1d117f44cc82af9a03d6d2ea
+
+COCOAPODS: 1.7.5
