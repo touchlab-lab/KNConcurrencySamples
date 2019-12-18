@@ -33,7 +33,7 @@ fun main() {
 //    atomicRefDemo()
 
     // 6) Coroutines
-//    basicBackgroundCoroutine()
+    basicBackgroundCoroutine()
 //    captureStateCoroutine()
 //    captureTooMuchCoroutine()
 //    captureArgsCoroutine()

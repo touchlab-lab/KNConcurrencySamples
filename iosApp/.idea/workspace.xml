@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbb98863-cc17-4063-aecc-65f9495338eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/kgalligan.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/kgalligan.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iosApp.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/iosApp.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iosApp.xcodeproj/xcuserdata/kgalligan.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/iosApp.xcodeproj/xcuserdata/kgalligan.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_30B39E89-3D38-4F98-B8E6-114AD8B57902" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1V7MaMImiyy9Xiu9H3pmmOvSdCL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="iosApp" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="iosApp" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="iosApp" TARGET_NAME="iosApp" CONFIG_NAME="Debug" SCHEME_NAME="iosApp" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" RUN_TARGET_PROJECT_NAME="iosApp" RUN_TARGET_NAME="iosApp" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbb98863-cc17-4063-aecc-65f9495338eb" name="Default Changelist" comment="" />
+      <created>1576599743041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576599743041</updated>
+      <workItem from="1576599749289" duration="552000" />
+      <workItem from="1576600954594" duration="710000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="267" key="GridCell.Tab.0.bottom" timestamp="1576601668078">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="267" key="GridCell.Tab.0.bottom/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1576601668078" />
+    <state width="1358" height="267" key="GridCell.Tab.0.center" timestamp="1576601668077">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="267" key="GridCell.Tab.0.center/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1576601668077" />
+    <state width="1358" height="267" key="GridCell.Tab.0.left" timestamp="1576601668077">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="267" key="GridCell.Tab.0.left/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1576601668077" />
+    <state width="1358" height="267" key="GridCell.Tab.0.right" timestamp="1576601668078">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="267" key="GridCell.Tab.0.right/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1576601668078" />
+    <state width="600" height="400" key="NewXcodeProjectWizard" timestamp="1576601113060">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="600" height="400" key="NewXcodeProjectWizard/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1576601113060" />
+    <state x="-1464" y="155" key="SettingsEditor" timestamp="1576600940881">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1464" y="155" key="SettingsEditor/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1576600940881" />
+    <state x="-1327" y="379" key="com.intellij.ide.util.TipDialog" timestamp="1576601015249">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1327" y="379" key="com.intellij.ide.util.TipDialog/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1576601015249" />
+    <state x="519" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027/-1920.23.1920.1057@0.23.1680.1027" timestamp="1576599748124" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/iosApp/AppDelegate.swift</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/../src/macosMain/kotlin/sample/SampleMacos.kt</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/../src/macosMain/kotlin/sample/SampleMacos.kt</url>
+          <line>39</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

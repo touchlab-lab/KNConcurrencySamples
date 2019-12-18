@@ -2,9 +2,9 @@ plugins {
     id 'org.jetbrains.kotlin.multiplatform' version '1.3.61'
 }
 repositories {
-    mavenLocal()
     mavenCentral()
     jcenter()
+    maven { url "https://kotlin.bintray.com/kotlinx" }
 }
 kotlin {
     // For ARM, should be changed to iosArm32 or iosArm64
@@ -26,7 +26,7 @@ kotlin {
         // in gradle.properties file and re-import your project in IDE.
         macosMain {
             dependencies {
-                implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core-native:1.3.2-native-mt-SNAPSHOT"
+                implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core-native:1.3.3-native-mt"
             }
         }
         macosTest {
